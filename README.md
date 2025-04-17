@@ -1,6 +1,6 @@
 ## Genomic Jamba
 
-StripedMamba is a hybrid architecture combining Mamba and Flash Attention mechanisms for efficient sequence modeling. The model uses a 75:25 ratio of Mamba2 blocks to Flash-Attention2 blocks, leveraging the strengths of both architectures.
+Genomic Jamba is a hybrid architecture combining Mamba2 and Flash Attention2 mechanisms for efficient sequence modeling. The model uses a 75:25 ratio of Mamba2 blocks to Flash-Attention2 blocks, leveraging the strengths of both architectures.
 
 ## Requirements
 
