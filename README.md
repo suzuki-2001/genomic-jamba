@@ -20,7 +20,7 @@ Genomic Jamba is a hybrid architecture combining Mamba2 and Flash Attention2 mec
 ## Pre-trained checkpoints
 - pretrained on agro-nucleotide-transformer-1b corpus is available at [here](https://huggingface.co/suzuki-2001/plant-genomic-jamba).
 
-## load and use the model
+## Usage
 
 - #### pre-training
 
