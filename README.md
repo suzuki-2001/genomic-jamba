@@ -5,6 +5,9 @@ Genomic Jamba is a hybrid architecture combining Mamba2 and Flash Attention2 mec
 
 ![benchmark results](md/results.png)
 
+- [Liu et al (2025), Plant DNA Models](https://huggingface.co/collections/zhangtaolab/plant-foundation-models-668514bd5c384b679f9bdf17) - [[GitHub]](https://github.com/zhangtaolab/plant_DNA_LLMs) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1674205224003903)
+- [Evaluated Benchmarks of PDLLMs](https://huggingface.co/zhangtaolab)
+
 ## Requirements
 
 - **Python:** 3.12  
