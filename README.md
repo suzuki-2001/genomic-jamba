@@ -2,6 +2,8 @@
 
 Genomic Jamba is a hybrid architecture combining Mamba2 and Flash Attention2 mechanisms for efficient sequence modeling. The model uses a 75:25 ratio of Mamba2 blocks to Flash-Attention2 blocks, leveraging the strengths of both architectures.
 
+![benchmark results](md/results.png)
+
 ## Requirements
 
 - **Python:** 3.12  
